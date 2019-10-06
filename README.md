@@ -1,4 +1,4 @@
-# Transformer and its Variants
+# Transformer.md
 ## Structure
 - ### *Attention is all you need*
 
@@ -18,7 +18,7 @@
 
 - ### *Character-Level Language Modeling with Deeper Self-Attention*
 
-# Recommendation
+# Recommendation.md
 ## Traditional Sequential Recommendation
 - ### *Session-Based Recommendations with Recurrent Neural Networks*
 
